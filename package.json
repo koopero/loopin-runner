@@ -1,0 +1,19 @@
+{
+  "name": "loopin-runner",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "loopin": "./bin/loopin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird-extra": "^1.0.1",
+    "byline": "^4.2.1",
+    "lodash": "^4.9.0"
+  }
+}
